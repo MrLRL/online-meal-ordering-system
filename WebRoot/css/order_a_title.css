@@ -1,0 +1,10 @@
+@charset "gb2312";
+.a_title,.a_title:visited{
+	background-color: #00FF00;
+	color:#000099;
+}
+.a_title:hover
+{
+color:#0099CC;
+
+}

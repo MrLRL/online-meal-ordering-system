@@ -1,0 +1,14 @@
+@charset "utf-8";
+.ul {
+	width: 980px;
+	float: left;
+	list-style-type: none;
+}
+.li0 {
+	float: left;
+	width: 180px;
+}
+.li1 {
+	float: left;
+	width: 300px;
+}

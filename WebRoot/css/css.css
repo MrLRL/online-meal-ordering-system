@@ -1,0 +1,73 @@
+td,body {
+	font-size: 12px;
+	color: #333333;
+	line-height: 150%;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+dl{
+	border:1px solid  #CCFFFF;
+	padding:8px ;
+	}
+img,dt{
+	border:0px solid red;
+	}
+	
+a:link {
+	color: #000000;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+a:visited {
+	color: #000000;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+a:hover {
+	color: #FF6600;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+.w12 {
+	font-size: 12px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.w13 {
+	font-size: 13px;
+}
+
+.y14 {
+	font-size: 14px;
+	color: #cb6501;
+	font-weight: bold;
+}
+
+.leftclass_type_bigfont {
+	font-family: "新宋体";
+	font-size: 14px;
+	color: #FF6600;
+	line-height: 16px;
+	font-weight: bold;
+}
+.divworm
+{
+	font-size:20px;
+	text-align:center;
+	height:400px;
+}
+.ziti
+{
+	font-family: "新宋体";
+	font-size: 14px;
+	color: #333333;
+}

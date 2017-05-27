@@ -1,0 +1,51 @@
+@charset "gb2312";
+td,table{
+	text-algin:center;
+}
+a {
+	color: #0000CC;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #33FF00;
+}
+
+a:visited {
+	color: #0000CC;
+}
+
+.tr_sty {
+	background-color:#FF9933;
+}
+
+.tr_sty0 {
+	background-color:#FFCC66;
+}
+
+.tr_sty1 {
+	background-color:#FFCC88;
+}
+
+
+.red {
+	color: red;
+	font-weight: 700;
+}
+
+body {
+	font-size: 12px;
+	SCROLLBAR-FACE-COLOR: #BED8EB;
+	SCROLLBAR-SHADOW-COLOR: #DDF8FF;
+	SCROLLBAR-HIGHLIGHT-COLOR: #92C0D1;
+	SCROLLBAR-3DLIGHT-COLOR: #DDF8FF;
+	SCROLLBAR-DARKSHADOW-COLOR: #92C0D1;
+	SCROLLBAR-TRACK-COLOR: #BED8EB;
+	SCROLLBAR-ARROW-COLOR: #92C0D1
+}
+
+
+
+select,.input_sty {
+	background: #FFFFCC;
+}

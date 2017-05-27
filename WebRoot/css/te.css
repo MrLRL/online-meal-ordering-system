@@ -1,0 +1,21 @@
+
+.divworm
+{
+	font-size:20px;
+	text-align:center;
+	height:400px;
+}
+table,td
+{
+	border:0px;
+	text-align:center;
+}
+.pdiv
+{
+	font-size:16px;
+	height:500px;
+	width:650px;
+	margin:auto;
+	text-indent:40px;
+	line-height:30px;
+}
